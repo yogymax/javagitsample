@@ -7,6 +7,7 @@ public class Sample {
 			System.out.println("Added one more change..added by another developer...");
 			System.out.println("inside sampel dev1");
 			System.out.println("inside sampel dev2");
+			System.out.println("New code added in jdev..");
 			
 		}
 }
