@@ -3,7 +3,7 @@ package com.api.exp.beans;
 public class Emp {
 	
 		static {
-			System.out.println("inside static block..");
+			System.out.println("inside static block...");
 		}
 		private int empId;
 		private String empName;
